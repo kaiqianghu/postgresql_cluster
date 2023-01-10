@@ -1,2 +1,2 @@
 # postgresql_cluster
-postgresql高可用集群搭建
+postgresql高可用集群搭建方案
